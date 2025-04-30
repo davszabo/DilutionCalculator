@@ -1,5 +1,6 @@
 
  DilutionCalculator.java
+ 
 A simple program to calculate the amount of chemical and diluent needed for a given dilution ratio.
 The program supports English and Hungarian languages.
 
@@ -11,6 +12,7 @@ This content is provided "as is," without any warranty of any kind. Use it respo
 For more information about CC0 1.0 Universal, see https://creativecommons.org/publicdomain/zero/1.0/
 
 DilutionCalculator.java
+
 Egy egyszerű program, amely kiszámítja a szükséges vegyszer és hígító mennyiségét egy adott hígítási arányhoz.
 A program támogatja az angol és magyar nyelveket.
 
