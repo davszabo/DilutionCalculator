@@ -57,11 +57,10 @@ public class DilutionCalculator {
 
             if (language.equals("English")) {
                 System.out.println("Chemical needed: " + chemicalAmount + " ml");
-                System.out.println(" needed: " + waterAmount + " ml");
-                System.out.println("Diluent needed: " + waterAmount + " ml");
+                System.out.println("Water needed: " + waterAmount + " ml");
             } else if (language.equals("Magyar")) {
                 System.out.println("Szükséges vegyszer: " + chemicalAmount + " ml");
-                System.out.println("Szükséges higító: " + waterAmount + " ml");
+                System.out.println("Szükséges víz: " + waterAmount + " ml");
             }
         } catch (NumberFormatException | ArrayIndexOutOfBoundsException e) {
             if (language.equals("English")) {
